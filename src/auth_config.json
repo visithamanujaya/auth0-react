@@ -1,0 +1,6 @@
+{
+  "domain": "rozie.auth0.com",
+  "clientId": "y5w1CY47DpZGdaIWNHjaUXR1Ew42AZt2",
+  "audience": "https://visitha-fastapi-test/test",
+  "apiOrigin": "http://localhost:8000"
+}
