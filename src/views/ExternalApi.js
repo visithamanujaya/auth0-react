@@ -172,14 +172,14 @@ export const ExternalApiComponent = () => {
 
         <div className={'button-block'}>
         <Button color="primary" className="mt-5" onClick={callApi}>
-          Default User API
+          Care Provider API
         </Button>
         <Button color="primary" className="mt-5" onClick={callAdminApi}>
-          Admin User API
+          Site Admin API
         </Button>
 
         <Button color="primary" className="mt-5" onClick={callSuperApi}>
-          Super User API
+          Super Admin API
         </Button>
         </div>
       </div>
